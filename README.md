@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Additional Information
+======================
+
+Changed the html for each gutenberg novel to exclude the style information at the top of the file and include a link to my own file.
+
 
